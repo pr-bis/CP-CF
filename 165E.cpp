@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-
 int arr[1000009];
 int dp[(1<<22)],tmp[1<<22];
 
